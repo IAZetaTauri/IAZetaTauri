@@ -22,7 +22,7 @@
     </p>
     <ul>
         <li>:school: Student at Davis Technical College</li>
-        <li>:woman_technologist: Expoloring career paths in software development and website design</li>
+        <li>:woman_technologist: Exploring career paths in software development and website design</li>
         <li>:sparkles: In my free time, I love exploring Kpop; namley Ateez, Stray Kids, and BTS:sparkles:</li>
    </ul>
 </p>
