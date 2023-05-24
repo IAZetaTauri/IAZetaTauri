@@ -19,12 +19,8 @@
 <p>About Me :
     <p>
         I'm a student interested in web design and development. If something is fun or challenging in any way,           
-        I'm immediately drawn to it :call_me_hand:
+        I'm immediately drawn to it.
     </p>
-    <ul>
-        <li>:school: Student at Davis Technical College</li>
-        <li>:woman_technologist: Exploring career paths in software development and website design</li>
-        <li>:sparkles: In my free time, I love listening to K-pop as well as watching group performances and variety TV. My favourite groups include Ateez, Stray Kids, and BTS:sparkles:</li>
    </ul>
 </p>
         
